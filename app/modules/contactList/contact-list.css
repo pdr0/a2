@@ -1,0 +1,8 @@
+.contact {
+    display: block;
+    list-style: none;
+    padding: 8px;
+    font-size: 1em;
+    background-color: #DDDDDD;
+    margin: 2px;
+}
